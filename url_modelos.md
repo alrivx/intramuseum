@@ -11,3 +11,5 @@ Lungs:
     - Modelo https://www.cgtrader.com/items/1970138/download-page
     - Textura https://static.turbosquid.com/Preview/001153/930/IC/3D-model-arnold-lungs_0.jpg
 
+Table:
+https://www.turbosquid.com/3d-models/3d-small-table-model-1511162
