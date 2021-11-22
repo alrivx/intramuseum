@@ -13,3 +13,6 @@ Lungs:
 
 Table:
 https://www.turbosquid.com/3d-models/3d-small-table-model-1511162
+
+Eye:
+https://www.turbosquid.com/3d-models/3d-16-colors-of-realistic-eye-demo-free-model-1765448
