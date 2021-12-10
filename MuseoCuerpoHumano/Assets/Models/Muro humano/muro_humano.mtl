@@ -1,5 +1,15 @@
 # Blender MTL File: 'muro_humano.blend'
-# Material Count: 2
+# Material Count: 8
+
+newmtl Glass
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.764745 0.456507
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.222222
+illum 9
 
 newmtl Material
 Ns 225.000000
@@ -12,6 +22,37 @@ d 1.000000
 illum 2
 map_Kd silueta-final.png
 
+newmtl Material.002
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.150794 0.150794 0.150794
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\alex\\Documents\\TSCG\\intramuseum\\intramuseum\\MuseoCuerpoHumano\\Assets\\Models\\Muebles\\streetlamp\\Street Lamp\\grey-concrete-texture.jpg
+
+newmtl Metal
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.384374 0.384374 0.384374
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl None
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
 newmtl marcos-piel
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
@@ -22,3 +63,25 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Kd marco-piel.png
+
+newmtl statue_body
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\alex\\Documents\\TSCG\\intramuseum\\intramuseum\\MuseoCuerpoHumano\\Assets\\estatua\\Statue.jpg
+
+newmtl statue_podia
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\alex\\Documents\\TSCG\\intramuseum\\intramuseum\\MuseoCuerpoHumano\\Assets\\estatua\\Podium.jpg

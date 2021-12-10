@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c124e7227a7437c43b89f4cbd031e9cb, type: 3}
+  m_Name: Cloth
+  m_EditorClassIdentifier: 
+  m_particles:
+  - {x: 1, y: -1, z: 0, w: 1}
+  - {x: 1, y: 0, z: 0, w: 1}
+  - {x: 0, y: 0, z: 0, w: 1}
+  - {x: 1, y: 1, z: 0, w: 0}
+  - {x: 0, y: 1, z: 0, w: 1}
+  - {x: -1, y: 1, z: 0, w: 0}
+  - {x: 0, y: -1, z: 0, w: 1}
+  - {x: -1, y: 0, z: 0, w: 1}
+  - {x: -1, y: -1, z: 0, w: 1}
+  m_maxParticles: 9
+  m_springIndices: 000000000100000000000000020000000100000006000000000000000600000001000000020000000000000004000000010000000300000001000000040000000300000002000000020000000400000005000000010000000200000005000000040000000700000002000000060000000000000007000000020000000700000005000000060000000300000004000000040000000500000005000000070000000600000007000000080000000200000006000000080000000700000008000000
+  m_springCoefficients:
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
+  m_springRestLengths:
+  - 1
+  - 1.4142135
+  - 1.4142135
+  - 1
+  - 1
+  - 2.236068
+  - 1
+  - 1.4142135
+  - 1.4142135
+  - 1
+  - 2.236068
+  - 1.4142135
+  - 1.4142135
+  - 1
+  - 2.236068
+  - 1
+  - 2.236068
+  - 1
+  - 1
+  - 1
+  - 1.4142135
+  - 1.4142135
+  - 1
+  - 1
+  m_shapeIndices: 
+  m_shapeOffsets: 
+  m_shapeCoefficients: []
+  m_shapeCenters: []
+  m_triangleIndices: 000000000100000002000000010000000300000004000000020000000400000005000000010000000400000002000000000000000200000006000000020000000500000007000000060000000700000008000000020000000700000006000000
+  m_inflatable: 0
+  m_inflatableVolume: 0
+  m_inflatablePressure: 0
+  m_inflatableStiffness: 0
+  m_fixedParticles: 6f0000000a0000006e0000000900000058000000410000002100000005000000430000005a0000002b0000007500000071000000630000006a000000560000002a0000001e000000120000000f0000002d00000003000000
+  m_rebuildAsset: 0
+  m_referenceMesh: {fileID: -462981019419857548, guid: fa789b6d46e8dd24bb9bae5b088469d7, type: 3}
+  m_meshLocalScale: {x: 1, y: 1, z: 1}
+  m_meshTesselation: 1
+  m_weldingThreshold: 0.001
+  m_stretchStiffness: 0.1
+  m_bendStiffness: 0.1
+  m_tetherStiffness: 0
+  m_tetherGive: 0
+  m_pressure: 0
