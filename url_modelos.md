@@ -39,3 +39,18 @@ Son las principales células del sistema nervioso. Su función es encaminar y proc
 Transmiten órdenes a través de impulsos nerviosos. La comunicación entre una neurona y otra neurona se llama sinapsis.
 
 
+Flechas en dirección opuesta (imagen):
+	- URL https://www.onlinewebfonts.com/icon/71252Icon
+		Licencia Creative Commons 3.0
+
+Flecha curva:
+	- No hay una URL específica para la imagen, ya que el contenido
+	  parece ser generado mediante un id interno de la página, pero fue
+	  sacada de https://clipground.com/curved-arrows-clipart.html.
+	    No muestra una licencia visible
+	  
+Paleta colores:
+	- URL https://flatuicolors.com/palette/defo
+	En la descripción (https://medium.com/collect-ui-design-ui-ux-inspiration-blog/flat-ui-colors-2-13-countries-13-designers-13-color-palettes-more-1d0ecdd66301)
+	no especifica una licencia, pero parece implicarse que las paletas se pueden usar sin
+	restricciones (dominio público).
