@@ -1,15 +1,5 @@
 # Blender MTL File: 'muro_humano.blend'
-# Material Count: 8
-
-newmtl Glass
-Ns 96.078443
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.764745 0.456507
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 0.222222
-illum 9
+# Material Count: 5
 
 newmtl Material
 Ns 225.000000
@@ -22,66 +12,42 @@ d 1.000000
 illum 2
 map_Kd silueta-final.png
 
-newmtl Material.002
-Ns 96.078443
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.150794 0.150794 0.150794
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd C:\\Users\\alex\\Documents\\TSCG\\intramuseum\\intramuseum\\MuseoCuerpoHumano\\Assets\\Models\\Muebles\\streetlamp\\Street Lamp\\grey-concrete-texture.jpg
-
 newmtl Metal
 Ns 96.078443
-Ka 1.000000 1.000000 1.000000
-Kd 0.384374 0.384374 0.384374
+Ka 0.702128 0.702128 0.702128
+Kd 0.110689 0.110689 0.110689
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 2
+illum 3
 
-newmtl None
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.800000 0.800000 0.800000
+newmtl color-letras
+Ns 225.000000
+Ka 0.744681 0.744681 0.744681
+Kd 0.010396 0.009986 0.467202
+Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 2
+illum 3
 
-newmtl marcos-piel
+newmtl dorado
+Ns 225.000000
+Ka 0.893617 0.893617 0.893617
+Kd 0.259799 0.164665 0.004053
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl muros-crema
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
+Kd 0.507519 0.517334 0.361383
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd marco-piel.png
-
-newmtl statue_body
-Ns 10.000002
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.090000 0.090000 0.090000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd C:\\Users\\alex\\Documents\\TSCG\\intramuseum\\intramuseum\\MuseoCuerpoHumano\\Assets\\estatua\\Statue.jpg
-
-newmtl statue_podia
-Ns 10.000002
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.090000 0.090000 0.090000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd C:\\Users\\alex\\Documents\\TSCG\\intramuseum\\intramuseum\\MuseoCuerpoHumano\\Assets\\estatua\\Podium.jpg
