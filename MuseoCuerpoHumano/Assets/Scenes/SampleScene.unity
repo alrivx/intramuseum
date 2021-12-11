@@ -404,6 +404,185 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 15
+--- !u!1001 &177246045
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2115692724}
+    m_Modifications:
+    - target: {fileID: 1349550986867005880, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_text
+      value: "Tambi\xE9n llamados hemat\xEDes o eritrocitos, son c\xE9lulas que se
+        forman en la m\xE9dula \xF3sea. Contienen hemoglobina, el pigmento que le
+        d\xE1 su color rojo caracter\xEDstico. Su funci\xF3n principal es el transporte
+        del ox\xEDgeno en la sangre. Compuesto por prote\xEDnas y hierro es la hemoglobina
+        la que permite a la c\xE9lula fijar el ox\xEDgeno y llevarlo a las c\xE9lulas
+        del organismo para que tengan el funcionamiento correcto. El promedio de
+        la vida de los gl\xF3bulos rojos es de 120 d\xEDas."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1349550986867005880, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_wordWrappingRatios
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4338036329177283827, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 550
+      objectReference: {fileID: 0}
+    - target: {fileID: 4338036329177283827, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 140
+      objectReference: {fileID: 0}
+    - target: {fileID: 4338036329177283827, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4338036329177283827, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4338036329177283827, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 6207023881842884119, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 800
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 449.7373
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.003
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.003
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 31.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7006592334818510546, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 430
+      objectReference: {fileID: 0}
+    - target: {fileID: 7006592334818510546, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 400
+      objectReference: {fileID: 0}
+    - target: {fileID: 7006592334818510546, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.6296
+      objectReference: {fileID: 0}
+    - target: {fileID: 7322930988657437606, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 400
+      objectReference: {fileID: 0}
+    - target: {fileID: 7504980865099544492, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_text
+      value: "Gl\xF3bulos rojos"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7904706263341298115, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_CullTransparentMesh
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073272324106075717, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_Name
+      value: Letrero-globulo-rojo
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073272324106075717, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8636666485224027456, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_RenderMode
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
 --- !u!1001 &180044809
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2518,12 +2697,16 @@ MonoBehaviour:
   - {fileID: 1571258135}
   - {fileID: 312599908}
   - {fileID: 2085837147}
+  - {fileID: 1676614276}
+  - {fileID: 1886371976}
   letreros:
   - {fileID: 1858994209}
   - {fileID: 769557432}
   - {fileID: 592209855}
   - {fileID: 230140567}
   - {fileID: 1286756123}
+  - {fileID: 1115405887}
+  - {fileID: 1740622906}
 --- !u!1 &934436459
 GameObject:
   m_ObjectHideFlags: 0
@@ -2999,6 +3182,11 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: 1869108187693680617, guid: e0d26156cb5a2314090d4f3f67be34fa, type: 3}
   m_PrefabInstance: {fileID: 537982266}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1115405887 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8073272324106075717, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+  m_PrefabInstance: {fileID: 1700154038}
   m_PrefabAsset: {fileID: 0}
 --- !u!224 &1115405888 stripped
 RectTransform:
@@ -4115,11 +4303,9 @@ PrefabInstance:
         es encaminar y procesar la informaci\xF3n en el organismo. Se componen de
         un n\xFAcleo rodeado de estructuras en forma de estrella, llamadas dendritas,
         y de una larga prolongaci\xF3n que puede llegar a medir varias decenas de
-        cent\xEDmetros, llamado ax\xF3n. Entre las neuronas algunas tienen un papel
-        en los movimientos, otras en la percepci\xF3n de las sensaciones y otras
-        pertenecen al sistema nervioso vegetativo, responsable de las funciones autom\xE1ticas.\r\n\r\nTransmiten
-        \xF3rdenes a trav\xE9s de impulsos nerviosos. La comunicaci\xF3n entre una
-        neurona y otra neurona se llama sinapsis.\n"
+        cent\xEDmetros, llamado ax\xF3n. \n\r\nTransmiten \xF3rdenes a trav\xE9s
+        de impulsos nerviosos. La comunicaci\xF3n entre una neurona y otra neurona
+        se llama sinapsis.\n"
       objectReference: {fileID: 0}
     - target: {fileID: 1349550986867005880, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
       propertyPath: m_wordWrappingRatios
@@ -4127,7 +4313,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4338036329177283827, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 450
+      value: 550
+      objectReference: {fileID: 0}
+    - target: {fileID: 4338036329177283827, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 140
       objectReference: {fileID: 0}
     - target: {fileID: 4338036329177283827, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
       propertyPath: m_LocalScale.x
@@ -4139,7 +4329,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4338036329177283827, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 63
+      value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 6207023881842884119, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -4243,7 +4433,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7006592334818510546, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 340
+      value: 430
+      objectReference: {fileID: 0}
+    - target: {fileID: 7006592334818510546, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 400
       objectReference: {fileID: 0}
     - target: {fileID: 7006592334818510546, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
       propertyPath: m_LocalScale.x
@@ -4396,6 +4590,16 @@ Transform:
   m_Father: {fileID: 433249863}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 90}
+--- !u!1 &1740622906 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8073272324106075717, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+  m_PrefabInstance: {fileID: 177246045}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &1740622907 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 6618414484270782425, guid: b3504e95701dfd046b4b1f1c0444674d, type: 3}
+  m_PrefabInstance: {fileID: 177246045}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1761557522 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 176b6cab471325f4e9331ee328b6aa79, type: 3}
@@ -4577,6 +4781,101 @@ Transform:
   m_Father: {fileID: 433249863}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: -180}
+--- !u!1 &1886371976
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1886371977}
+  - component: {fileID: 1886371980}
+  - component: {fileID: 1886371979}
+  - component: {fileID: 1886371978}
+  m_Layer: 0
+  m_Name: area-letrero-globulo-rojo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1886371977
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1886371976}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4, y: 0, z: 30.18}
+  m_LocalScale: {x: 5.390625, y: 1, z: 5.610938}
+  m_Children: []
+  m_Father: {fileID: 2115692724}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1886371978
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1886371976}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1886371979
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1886371976}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1886371980
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1886371976}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1936601194
 GameObject:
   m_ObjectHideFlags: 0
@@ -5090,6 +5389,8 @@ Transform:
   - {fileID: 2085837148}
   - {fileID: 1115405888}
   - {fileID: 1676614277}
+  - {fileID: 1740622907}
+  - {fileID: 1886371977}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

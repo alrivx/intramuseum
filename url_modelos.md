@@ -29,6 +29,13 @@ https://salud.ccm.net/faq/18686-ojo-definicion
 
 Neuronas:
     - Modelo
+        - Licencia Creazilla
+
     - Descripción
+
+
+Son las principales células del sistema nervioso. Su función es encaminar y procesar la información en el organismo. Se componen de un núcleo rodeado de estructuras en forma de estrella, llamadas dendritas, y de una larga prolongación que puede llegar a medir varias decenas de centímetros, llamado axón. Entre las neuronas algunas tienen un papel en los movimientos, otras en la percepción de las sensaciones y otras pertenecen al sistema nervioso vegetativo, responsable de las funciones automáticas.
+
+Transmiten órdenes a través de impulsos nerviosos. La comunicación entre una neurona y otra neurona se llama sinapsis.
 
 
