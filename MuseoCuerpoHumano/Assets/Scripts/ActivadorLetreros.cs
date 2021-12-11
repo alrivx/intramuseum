@@ -6,6 +6,7 @@ public class ActivadorLetreros : MonoBehaviour
 {
     public GameObject[] areaActivacion;
     public GameObject[] letreros;
+    public AudioClip audioAparicion;
 
     void OnTriggerEnter(Collider otherObject)
     {
@@ -14,6 +15,7 @@ public class ActivadorLetreros : MonoBehaviour
             if (otherObject.gameObject == areaActivacion[i])
             {
                 letreros[i].SetActive(true);
+                AudioSource.PlayClipAtPoint(audioAparicion, otherObject.transform.position);
             }
         }
     }

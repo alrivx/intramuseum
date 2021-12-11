@@ -54,3 +54,15 @@ Paleta colores:
 	En la descripción (https://medium.com/collect-ui-design-ui-ux-inspiration-blog/flat-ui-colors-2-13-countries-13-designers-13-color-palettes-more-1d0ecdd66301)
 	no especifica una licencia, pero parece implicarse que las paletas se pueden usar sin
 	restricciones (dominio público).
+	
+Ratón de referencia:
+	- URL 
+	Photo by ALEKSANDR KOZLENKO from Pexels Creative Commons V0
+
+Sonido corazon:
+	- URL https://freesound.org/people/InspectorJ/sounds/485076/
+	Licencia Creative Commons 3.0, por InspectorJ
+	
+Sonido aparición:
+	- URL https://freesound.org/people/SKsemi/sounds/432922/
+	Licencia Creative Commons 0, por SKsemi
