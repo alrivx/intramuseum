@@ -86,6 +86,7 @@ namespace NVIDIA.Flex
 
                 m_mesh.bounds = m_actor.bounds;
 
+                Color waterColor = new Color(0.454f, 0.8f, 0.956f);
                 for (int i = 0; i < m_particleMaterials.Length; ++i)
                 {
                     if (m_particleMaterials[i])
@@ -93,7 +94,7 @@ namespace NVIDIA.Flex
                         m_particleMaterials[i].SetBuffer("_Points", m_actor.container.particleBuffer);
                         m_particleMaterials[i].SetBuffer("_Indices", m_indexBuffers[i]);
                         m_particleMaterials[i].SetFloat("_Radius", ParticleSize());
-                        m_particleMaterials[i].SetColor("_Color", SubmeshColor(i));
+                        m_particleMaterials[i].SetColor("_Color", /* SubmeshColor(i) */ waterColor);
                     }
                 }
             }
