@@ -17,6 +17,10 @@ Pulmones:
     - Modelo https://www.cgtrader.com/items/1970138/download-page
     - Textura https://static.turbosquid.com/Preview/001153/930/IC/3D-model-arnold-lungs_0.jpg
 
+Diagrafma:
+	- Modelo: https://sketchfab.com/3d-models/human-diaphragm-b62b76467c6948fbb735c78c0c428d65
+	- Licencia Creative Commons Attribution Required, por Devden
+
 https://salud.ccm.net/faq/10132-pulmon-anatomia-definicion
     - Licencia Creative Commons V3.0
 
@@ -66,3 +70,7 @@ Sonido corazon:
 Sonido aparición:
 	- URL https://freesound.org/people/SKsemi/sounds/432922/
 	Licencia Creative Commons 0, por SKsemi
+	
+Imágen de cerebro con matemáticas:
+	- URL https://pixabay.com/es/illustrations/cerebro-mente-psicolog%c3%ada-ocurrencia-2062057/
+	Pixabay license, por ElisaRiva
