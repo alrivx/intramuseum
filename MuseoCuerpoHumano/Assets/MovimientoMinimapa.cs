@@ -30,10 +30,8 @@ public class MovimientoMinimapa : MonoBehaviour
 
         // Por su parte, dicha cámara debe apuntar en la misma
         // dirección que la cámara principal pero siempre hacia abajo
-        float newYRotation = mainCamera.transform.rotation.eulerAngles.y;
-        Vector3 newRotationEuler = new Vector3(90.0f, newYRotation, 0);
-        Quaternion newRotation = new Quaternion();
-        newRotation.eulerAngles = newRotationEuler;
+        float newYRotation = mainCamera.eulerAngles.y;
+        Quaternion newRotation = Quaternion.Euler(90.0f, newYRotation, 0);
 
         transform.rotation = newRotation;
         transform.position = newPosition;
